@@ -1,0 +1,8 @@
+{
+  "name": "GameGhost AI",
+  "description": "An AI game assistant that captures your screen, analyzes gameplay in real-time using Gemini Vision, and provides strategic coaching and 'automated' learning for any game.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
